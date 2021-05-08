@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Pet"/>
+    <qresource prefix="/">
+        <file>images/action/brush_01.png</file>
+        <file>images/action/mouse.png</file>
+        <file>images/action/pointer_black.png</file>
+        <file>images/action/pointer_white.png</file>
+    </qresource>
+</RCC>

@@ -10,7 +10,7 @@ FileSystem Structure：
 
 |—— Pet : UI and main source code.Using Qt\C++11\Jsoncpp by now.
 
-​		|—— GeneralCode : project management part
+|——|—— GeneralCode : project management part
 
 |—— thirdparty : thirdparty libraries
 

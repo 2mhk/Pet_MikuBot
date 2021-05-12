@@ -3,6 +3,7 @@
 Pet Project
 
 Private project under development, UI resources in this project are for study purposes only.
+Pictures are not included in the source code.
 
 
 FileSystem Structure：
